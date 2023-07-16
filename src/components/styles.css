@@ -1,0 +1,97 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff !important; 
+    color: #fff !important; 
+    border: none;
+    cursor: pointer;
+  }
+  
+  .completed-button {
+    text-decoration: none !important; 
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-list {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  .task-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  
+  .task-item h3 {
+    margin-top: 0;
+  }
+  
+  .task-item button {
+    margin-right: 5px;
+    text-decoration: none !important;
+  }
+  
+  .task-item .buttonD {
+    background-color: #dc3545 !important; 
+  }
+  
+  .task-item .buttonC {
+    background-color: #28a745 !important;
+  }
+  
+  .task-item .buttonSH {
+    background-color: #ffc107 !important; 
+  }
+  
+  .list-title {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .task-details {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+  }
+  
