@@ -21,7 +21,7 @@ const TaskForm = ({ onTaskAdd }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const newTask = {
-      id: Math.random().toString,
+      id: Math.random(),
       name: task.name,
       date: task.date,
       description: task.description,
